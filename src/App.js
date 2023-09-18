@@ -6,8 +6,11 @@ export default function App() {
       <h1> Weather App</h1>
       <footer>
         {" "}
-        This page is created by Dani Phelps
-        <a href="" target="_blank">
+        This page was coded by Dani Phelps and is {""}
+        <a
+          href="https://github.com/dophelps/react-weather-try1"
+          target="_blank"
+        >
           open-sourced on GitHub
         </a>
       </footer>
