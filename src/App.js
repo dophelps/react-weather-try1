@@ -10,8 +10,21 @@ export default function App() {
         <footer>
           {" "}
           This page was coded by Dani Phelps and is {""}
-          <a href="https://github.com/dophelps/react-weather-try1">
+          <a
+            href="https://github.com/dophelps/react-weather-try1"
+            target="_blank"
+            rel="noopner noreferrer"
+          >
             open-sourced on GitHub
+          </a>{" "}
+          and
+          <a
+            href="https://tangerine-croissant-171f0e.netlify.app"
+            target="_blank"
+            rel="noopner noreferrer"
+          >
+            {" "}
+            hosted on Netlify
           </a>
         </footer>
       </div>
