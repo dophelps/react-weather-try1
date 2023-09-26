@@ -10,10 +10,7 @@ export default function App() {
         <footer>
           {" "}
           This page was coded by Dani Phelps and is {""}
-          <a
-            href="https://github.com/dophelps/react-weather-try1"
-            target="_blank"
-          >
+          <a href="https://github.com/dophelps/react-weather-try1">
             open-sourced on GitHub
           </a>
         </footer>
